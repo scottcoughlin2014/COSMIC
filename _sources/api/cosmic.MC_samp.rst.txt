@@ -1,0 +1,4 @@
+.. automodule:: cosmic.MC_samp
+   :members:
+   :undoc-members:
+   :show-inheritance:
